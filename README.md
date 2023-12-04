@@ -55,11 +55,11 @@ Sendo assim, o projeto visa capacitar profissionais do setor de logística com a
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 06/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 27/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01|  18/10/2023| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 08/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Kick Off | 06/09/2023| concluido| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG002.A994.M.074.146.20232/Material%20de%20Aula/Kick-off%20API%202M%20(1).pptx?d=w70cd38a3b73d4fd8834ebf9308a790e2&csf=1&web=1&e=l7BAZF) | 
+|00 | 27/09/2023| concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01|  18/10/2023| concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 17/11/2023 | concluído|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| o6/12/2023 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 #### Cronograma das Sprints[(clique aqui)](https://2023co.atlassian.net/jira/software/projects/SCRUM/boards/2)
@@ -118,10 +118,12 @@ Requisitos não funcionais
 - [x] Dashboard de probabilidades.
       
 ## Sprint 3. Operacionalização
-- [ ] Terminar as 5 telas requisitadas;
-- [ ] Apresentar os dados do desempenho de SJC e carga específica;
-- [ ] Fazer relatório técnico da sprint 3;
-- [ ] Gerenciar o 5W2H;
+- [x] Terminar as telas requisitadas pelo cliente;
+- [x] Apresentar os dados do desempenho de SJC, Jundiaí e Paulínia em relação á carga específica;
+- [x] Fazer relatório técnico da sprint 3;
+- [x] Gerenciar o 5W2H;
+- [x] Projetar mapa dentro do power BI
+- [x] Fazer a equilvalência percentual das cidades (SJC, Jundiaí e Paulínia) em relação ao estado de São Paulo.
 
 # Competências desenvolvidas
 
