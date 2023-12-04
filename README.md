@@ -116,7 +116,12 @@ Requisitos não funcionais
 - [x] Fazer relatório técnico da sprint 2;
 - [x] Gerenciar o 5W2H;
 - [x] Dashboard de probabilidades.
-      
+
+## Resultado
+
+<img width=100% src="imagem/DASHBOARD SEGUNDA SPRINT.mp4">
+
+
 ## Sprint 3. Operacionalização
 - [x] Terminar as telas requisitadas pelo cliente;
 - [x] Apresentar os dados do desempenho de SJC, Jundiaí e Paulínia em relação á carga específica;
@@ -124,6 +129,11 @@ Requisitos não funcionais
 - [x] Gerenciar o 5W2H;
 - [x] Projetar mapa dentro do power BI
 - [x] Fazer a equilvalência percentual das cidades (SJC, Jundiaí e Paulínia) em relação ao estado de São Paulo.
+
+## Resultado
+
+<img width=100% src="file:///C:/Users/jvo11/Downloads/DASHBOARD%20TERCEIRA%20SPRINT.mp4">
+
 
 # Competências desenvolvidas
 
