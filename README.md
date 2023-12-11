@@ -119,7 +119,7 @@ Requisitos não funcionais
 
 ## Resultado
 
-<img width=100% src="imagem/DASHBOARD SEGUNDA SPRINT.mp4">
+<img width=100% src="imagem/DASHBOARD SEGUNDA SPRINT.gif">
 
 
 ## Sprint 3. Operacionalização
@@ -132,7 +132,7 @@ Requisitos não funcionais
 
 ## Resultado
 
-<img width=100% src="file:///C:/Users/jvo11/Downloads/DASHBOARD%20TERCEIRA%20SPRINT.mp4">
+<img width=100% src="imagem/DASHBOARD TERCEIRA SPRINT - Copia.gif">
 
 
 # Competências desenvolvidas
@@ -143,12 +143,11 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Miro| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| 5W2H| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| SWOT | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| 5W2H| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
  
 </details>
 
@@ -158,11 +157,11 @@ Requisitos não funcionais
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Colaboração| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Comunicação| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Autonomia| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Autonomia| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
