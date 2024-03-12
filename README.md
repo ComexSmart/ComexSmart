@@ -39,13 +39,11 @@ Sendo assim, o projeto visa capacitar profissionais do setor de logística com a
 
 
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-| Product Owner |   <a href="https://user-images.githubusercontent.com/142995260/273606204-7e156cbd-5834-46c2-b3de-9a55555f111f.jpg"><img src="https://user-images.githubusercontent.com/142995260/273606204-7e156cbd-5834-46c2-b3de-9a55555f111f.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Douglas Abraão</p> | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nogueira-85b23128a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-
-|  Scrum Master  | <a href="https://user-images.githubusercontent.com/142995260/273609504-5461f942-1a61-4e2f-aece-944899cb4bda.jpg"><img src="https://user-images.githubusercontent.com/142995260/273609504-5461f942-1a61-4e2f-aece-944899cb4bda.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Maria Martins</p> | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-morais-martins-379099287/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-
+| Função         | Nome          | LinkedIn & GitHub                                                                                                   |
+| -------------- | ------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Product Owner  | Douglas Abraão | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/douglas-nogueira-85b23128a/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis) |
+| Scrum Master   | Maria Martins | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maria-clara-morais-martins-379099287/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
 
 
 # Cronograma das Sprints
